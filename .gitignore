@@ -1,0 +1,11 @@
+*
+!main.py
+!app.py
+!Dockerfile
+!requirements-prod.txt
+!requirements.txt
+!.flaskenv
+!README.md
+!main.py
+!main_tf.tf
+!variables.tf
